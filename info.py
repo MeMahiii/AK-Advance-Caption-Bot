@@ -15,7 +15,7 @@ def is_enabled(value, default):
 
 
 ADMIN = int(getenv("ADMIN", "7954762405"))
-SILICON_PIC = os.environ.get("SILICON_PIC", "https://files.catbox.moe/9zv22s.jpg")
+SILICON_PIC = os.environ.get("SILICON_PIC", "https://files.catbox.moe/qzg4n0.jpg")
 API_ID = int(getenv("API_ID", "21316774"))
 API_HASH = str(getenv("API_HASH", "50f64c71c78a34a85dad33fb78fc6c33"))
 BOT_TOKEN = str(getenv("BOT_TOKEN", "7508114207:AAHSgrtvNsFhulIdFVQczsna_Saz9vUSKY4"))
